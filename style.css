@@ -299,15 +299,4 @@ a:hover {
     color: #01579b;
 }
 
-/* zocial */
-[class*="brandico-"]:before {
-  font-family: 'brandico', sans-serif;
-}
-
-@media only and screen and (min-width: 500px) {
-    footer {
-        /*position: absolute;*/
-
-    }
-}
 
