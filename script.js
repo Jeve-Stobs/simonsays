@@ -242,7 +242,7 @@ var Simon = {
 			switch (num) {
 				case 1:
 					link = "audio/simonSound1.mp3";
-					break;
+					break; //removed sound because of chromebooks
 				case 2:
 					link = "audio/simonSound2.mp3";
 					break;
